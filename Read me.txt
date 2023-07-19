@@ -1,0 +1,42 @@
+##Supermarket Sales Analysis Project
+
+# Overview
+This project analyzes the sales data of three major supermarkets - Carrefour, Naivas, and Quickmart. The dataset includes information on various product lines,
+ sales revenue, customer types, and payment methods. This analysis aims to gain insights into the performance of each supermarket branch, identify top-selling product lines, and understand customer behaviour.
+
+## File Structure
+The project folder is organized as follows:
+  1. `Data/`: Contains the CSV file with the supermarket sales data.
+2. `DataVisuals/`: Includes visualizations generated during the analysis.
+3. `Jupyter Notebooks/`: Contains Jupyter notebooks used for data exploration and visualization.
+4.. `supermarket sales Report.pdf`: The final report summarizing the findings.
+5. `Readme.txt`: This README file provides an overview of the project.
+
+## Instructions for Reproduction
+To reproduce the analysis, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Ensure you have Python 3 installed along with the necessary libraries (Pandas, Matplotlib, Seaborn, .).
+3. Open Jupyter Notebook and navigate to the `Jupyter Notebooks/` folder.
+4. Run the notebooks in sequential order to execute the analysis.
+5. The visualizations will be generated and saved in the `DataVisuals/` folder.
+6. The final report can be accessed from `supermarket sales Reportt.pdf`.
+
+## Data Source
+The supermarket sales data was obtained from a public dataset available at Kaggle  [URL: 'https://www.kaggle.com/datasets']
+
+## Data Preprocessing
+Before analysis, the data was cleaned to remove duplicates and handle missing values. Outliers were also addressed to ensure data quality.
+
+## Analysis Approach
+The analysis started with exploratory data analysis to gain insights into the distribution of sales across different product lines, branches, and cities. Data visualizations were used to visualize trends and patterns. Additionally, gross margin percentages were calculated to evaluate product line profitability.
+.
+
+## Future Directions
+Further analysis could explore the impact of external factors (e.g., promotions, events) on sales performance. Additionally, conducting a time series analysis could provide insights into sales trends and seasonality.
+
+## Acknowledgments
+We would like to acknowledge [Mark Rono] for providing the supermarket sales dataset used in this analysis.
+
+## Contact Information
+Please contact [Rono Brian ] at [ronobrian058@gmail.com] for any inquiries or feedback.
